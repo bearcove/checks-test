@@ -2,3 +2,4 @@ This line was read inside the Yasuo Firecracker guest.
 The second governed attempt uses the cgroup-owned lifecycle path.
 The third governed attempt uses jailer's executable-derived root authority.
 The fourth governed attempt boots a validated uncompressed Debian ELF kernel.
+The fifth governed attempt treats the full cgroup as the Firecracker domain.
