@@ -1,1 +1,2 @@
 This line was read inside the Yasuo Firecracker guest.
+The second governed attempt uses the cgroup-owned lifecycle path.
