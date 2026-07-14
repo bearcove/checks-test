@@ -16,3 +16,4 @@ The fifteenth governed attempt verifies checkout ownership and terminal aggregat
 The sixteenth governed attempt boots with transient network state on an immutable root.
 The seventeenth governed attempt publishes its durable Firecracker log through the run viewer.
 The eighteenth governed attempt binds the viewer protocol and enrolled guest generation together.
+The nineteenth governed attempt resolves its published run capability through the production viewer.
