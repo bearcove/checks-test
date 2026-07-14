@@ -20,3 +20,4 @@ The nineteenth governed attempt resolves its published run capability through th
 The twentieth governed attempt preserves its fleet session while publication is fenced.
 The twenty-first governed attempt exercises the operator-reviewed Firecracker slot after structural quarantine cleanup.
 The twenty-second governed attempt certifies live follow, resumable history, and terminal replay in the production viewer.
+The twenty-third governed attempt joins the production viewer while its Firecracker domain is still running.
