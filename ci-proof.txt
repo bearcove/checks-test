@@ -23,3 +23,4 @@ The twenty-second governed attempt certifies live follow, resumable history, and
 The twenty-third governed attempt joins the production viewer while its Firecracker domain is still running.
 The twenty-fourth governed attempt advances the viewer cursor across a deliberate live connection loss.
 The twenty-fifth governed attempt keeps the proof stream open through browser reconnection and terminal completion.
+The twenty-sixth governed attempt closes the browser's Vox socket and resumes from the durable log cursor.
