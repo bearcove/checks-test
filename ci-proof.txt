@@ -9,3 +9,4 @@ The eighth governed attempt resolves guest control through the jailed process ro
 The ninth governed attempt reaches jailed guest control through a host-owned proxy.
 The tenth governed attempt retries guest control until the microVM is ready.
 The eleventh governed attempt mounts the fresh work disk over an image-provisioned mountpoint.
+The twelfth governed attempt observes the isolated Firecracker egress path packet by packet.
