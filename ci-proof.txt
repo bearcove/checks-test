@@ -6,3 +6,4 @@ The fifth governed attempt treats the full cgroup as the Firecracker domain.
 The sixth governed attempt records the authority behind every cancellation.
 The seventh governed attempt preserves the durable lease expiry over Vox and Iroh.
 The eighth governed attempt resolves guest control through the jailed process root.
+The ninth governed attempt reaches jailed guest control through a host-owned proxy.
