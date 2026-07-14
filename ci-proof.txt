@@ -14,3 +14,4 @@ The thirteenth governed attempt crosses the single authoritative forwarding fire
 The fourteenth governed attempt runs on the enrolled recovery image with live lease reclamation.
 The fifteenth governed attempt verifies checkout ownership and terminal aggregate reconciliation.
 The sixteenth governed attempt boots with transient network state on an immutable root.
+The seventeenth governed attempt publishes its durable Firecracker log through the run viewer.
