@@ -8,3 +8,4 @@ The seventh governed attempt preserves the durable lease expiry over Vox and Iro
 The eighth governed attempt resolves guest control through the jailed process root.
 The ninth governed attempt reaches jailed guest control through a host-owned proxy.
 The tenth governed attempt retries guest control until the microVM is ready.
+The eleventh governed attempt mounts the fresh work disk over an image-provisioned mountpoint.
