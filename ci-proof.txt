@@ -12,3 +12,4 @@ The eleventh governed attempt mounts the fresh work disk over an image-provision
 The twelfth governed attempt observes the isolated Firecracker egress path packet by packet.
 The thirteenth governed attempt crosses the single authoritative forwarding firewall.
 The fourteenth governed attempt runs on the enrolled recovery image with live lease reclamation.
+The fifteenth governed attempt verifies checkout ownership and terminal aggregate reconciliation.
