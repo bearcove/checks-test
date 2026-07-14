@@ -4,3 +4,4 @@ The third governed attempt uses jailer's executable-derived root authority.
 The fourth governed attempt boots a validated uncompressed Debian ELF kernel.
 The fifth governed attempt treats the full cgroup as the Firecracker domain.
 The sixth governed attempt records the authority behind every cancellation.
+The seventh governed attempt preserves the durable lease expiry over Vox and Iroh.
