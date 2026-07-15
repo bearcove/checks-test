@@ -27,3 +27,4 @@ The twenty-sixth governed attempt closes the browser's Vox socket and resumes fr
 The twenty-seventh governed attempt proves graceful terminal channel closure after live reconnection.
 The twenty-eighth governed attempt exercises the M09 dependency diamond and scoped retry fence.
 The twenty-ninth governed attempt resurrects the blocked join after one scoped branch retry.
+The thirtieth governed attempt renders typed command groups on one run-relative timeline.
