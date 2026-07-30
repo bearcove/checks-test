@@ -1,0 +1,30 @@
+This line was read inside the Yasuo Firecracker guest.
+The second governed attempt uses the cgroup-owned lifecycle path.
+The third governed attempt uses jailer's executable-derived root authority.
+The fourth governed attempt boots a validated uncompressed Debian ELF kernel.
+The fifth governed attempt treats the full cgroup as the Firecracker domain.
+The sixth governed attempt records the authority behind every cancellation.
+The seventh governed attempt preserves the durable lease expiry over Vox and Iroh.
+The eighth governed attempt resolves guest control through the jailed process root.
+The ninth governed attempt reaches jailed guest control through a host-owned proxy.
+The tenth governed attempt retries guest control until the microVM is ready.
+The eleventh governed attempt mounts the fresh work disk over an image-provisioned mountpoint.
+The twelfth governed attempt observes the isolated Firecracker egress path packet by packet.
+The thirteenth governed attempt crosses the single authoritative forwarding firewall.
+The fourteenth governed attempt runs on the enrolled recovery image with live lease reclamation.
+The fifteenth governed attempt verifies checkout ownership and terminal aggregate reconciliation.
+The sixteenth governed attempt boots with transient network state on an immutable root.
+The seventeenth governed attempt publishes its durable Firecracker log through the run viewer.
+The eighteenth governed attempt binds the viewer protocol and enrolled guest generation together.
+The nineteenth governed attempt resolves its published run capability through the production viewer.
+The twentieth governed attempt preserves its fleet session while publication is fenced.
+The twenty-first governed attempt exercises the operator-reviewed Firecracker slot after structural quarantine cleanup.
+The twenty-second governed attempt certifies live follow, resumable history, and terminal replay in the production viewer.
+The twenty-third governed attempt joins the production viewer while its Firecracker domain is still running.
+The twenty-fourth governed attempt advances the viewer cursor across a deliberate live connection loss.
+The twenty-fifth governed attempt keeps the proof stream open through browser reconnection and terminal completion.
+The twenty-sixth governed attempt closes the browser's Vox socket and resumes from the durable log cursor.
+The twenty-seventh governed attempt proves graceful terminal channel closure after live reconnection.
+The twenty-eighth governed attempt exercises the M09 dependency diamond and scoped retry fence.
+The twenty-ninth governed attempt resurrects the blocked join after one scoped branch retry.
+The thirtieth governed attempt renders typed command groups on one run-relative timeline.
